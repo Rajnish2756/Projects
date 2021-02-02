@@ -10,8 +10,8 @@ import os
 import random
 import smtplib
 import base64
-
-
+import tensorflow
+import nltk
 
 class App:
     def __init__(self, parent):
